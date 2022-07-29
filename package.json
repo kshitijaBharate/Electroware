@@ -1,0 +1,22 @@
+{
+  "name": "electroware",
+  "version": "1.0.0",
+  "description": "\"this is electroware\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitijaBharate/Electroware.git"
+  },
+  "author": "kshitija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitijaBharate/Electroware/issues"
+  },
+  "homepage": "https://github.com/kshitijaBharate/Electroware#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
